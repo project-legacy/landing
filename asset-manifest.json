@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.415a8fa7.chunk.css",
+    "main.js": "/static/js/main.dbf328a5.chunk.js",
+    "main.js.map": "/static/js/main.dbf328a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f47148d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f47148d.js.map",
+    "static/css/2.7ad897a5.chunk.css": "/static/css/2.7ad897a5.chunk.css",
+    "static/js/2.4e4c6b76.chunk.js": "/static/js/2.4e4c6b76.chunk.js",
+    "static/js/2.4e4c6b76.chunk.js.map": "/static/js/2.4e4c6b76.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba51ca85f3cfdd2f2dbdf27236937cf1.js": "/precache-manifest.ba51ca85f3cfdd2f2dbdf27236937cf1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7ad897a5.chunk.css.map": "/static/css/2.7ad897a5.chunk.css.map",
+    "static/css/main.415a8fa7.chunk.css.map": "/static/css/main.415a8fa7.chunk.css.map",
+    "static/js/2.4e4c6b76.chunk.js.LICENSE.txt": "/static/js/2.4e4c6b76.chunk.js.LICENSE.txt",
+    "static/media/Big-Ideas-logo.png": "/static/media/Big-Ideas-logo.eeb2b83b.png",
+    "static/media/Legacy1.svg": "/static/media/Legacy1.c556ef06.svg",
+    "static/media/berk-law.jpg": "/static/media/berk-law.cb502125.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f47148d.js",
+    "static/css/2.7ad897a5.chunk.css",
+    "static/js/2.4e4c6b76.chunk.js",
+    "static/css/main.415a8fa7.chunk.css",
+    "static/js/main.dbf328a5.chunk.js"
+  ]
+}
